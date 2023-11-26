@@ -1,6 +1,6 @@
 ![MasterHead ](https://lh3.googleusercontent.com/pw/AL9nZEWtEQ_raX2LBS37ECESy-nAbBGwgCMYgMTUMGTFIYUS6dVaetPed5lLvOfBKRyBRG9zWVb9OroxUK20dni-CCyTu01k9tNVSnJnKkR5ZAFYEVIY1mKajLuJvZYilMhYCO4RV1dkvfC3t4YrB7IFSv4=w1812-h521-no?authuser=0)
 <h1 align="center">Hi 👋, I'm Naveena</h1>
-<h3 align="center">A passionate Fullstack development from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenaik&label=Profile%20views&color=0e75b6&style=flat" alt="naveenaik" /> </p>
 
